@@ -1,2 +1,2 @@
-# hello-world
-hello world script hehe
+hello world script
+for the tutorials
